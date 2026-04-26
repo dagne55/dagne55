@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Dagnachew Mamo 👋
 
-<!--
-**dagne55/dagne55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-stack & Mobile App Developer | IT Student
+I'm a passionate developer focused on building modern web and mobile applications. I love exploring emerging technologies and sharing knowledge through my YouTube channel.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
+- **Backend:** Node.js, Express
+- **Mobile:** Flutter
+- **Database:** MySQL
+- **Other:** C#, Java, AI SDK Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests & Research
+- Neuromorphic Computing & Spiking Neural Networks (SNN)
+- Edge AI & Quantum Computing
+- Building AI-powered Telegram Bots
+
+### 📢 Connect with Me
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DagneTech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dagnachew-mamo-67581a3a1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nopain1nogain19)
+
+---
+🎥 Check out my tech tutorials on **[DagneTech](https://www.youtube.com/@DagneTech)**!
