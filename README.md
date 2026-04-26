@@ -11,7 +11,7 @@ I'm a passionate developer focused on building modern web and mobile application
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,mysql,java,cs,git,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,mysql,java,git" />
 </p>
 
 ---
