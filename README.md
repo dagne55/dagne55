@@ -1,7 +1,7 @@
 # Hi there, I'm Dagnachew Mamo 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20DagneTech&fontSize=50" />
+<p> align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;IT+Student+at+BDU;Tech+Content+Creator" alt="Typing SVG" />
 </p>
 
 ### 🚀 Full-stack & Mobile App Developer | IT Student
