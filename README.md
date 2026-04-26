@@ -32,7 +32,7 @@ I'm a passionate developer focused on building modern web and mobile application
 <p align="left">
 <a href="https://www.youtube.com/@DagneTech2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DagneTech2018" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dagnachew-mamo-67581a3a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dagnachew-mamo" height="30" width="40" /></a>
-<a href="https://t.me/Nopain1nogain19" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://t.me/Nopain1nogain19" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="Nopain1nogain19" height="30" width="40" /></a>
 </p>
 
 ---
