@@ -1,7 +1,7 @@
 # Hi there, I'm Dagnachew Mamo 👋
 
-## 🚀 Full-stack & Mobile App Developer | IT Student
-I'm a passionate developer focused on building modern web and mobile applications. I love exploring emerging technologies and sharing knowledge through my YouTube channel.
+## 🚀 Full-stack Developer | IT Student
+I'm a passionate developer focused on building modern web . I love exploring emerging technologies and sharing knowledge through my YouTube channel.
 
 ### 🛠 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React
